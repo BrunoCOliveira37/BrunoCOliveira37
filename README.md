@@ -1,9 +1,8 @@
 
-<br />
-Hello! I'm Bruno
+<br>
 <div align="center">
   <a href="https://github.com/BrunoCOliveira37">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCOliveira37&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCOliveira37&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true?locale=pt"/>
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
