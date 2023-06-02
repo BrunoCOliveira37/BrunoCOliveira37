@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/BrunoCOliveira37">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCOliveira37&show_icons=true&cont_private=true&locale=theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCOliveira37&show_icons=true&cont_private=true&locale=theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
