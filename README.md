@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="center" alt="BrunoCOliveira37-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-plain.svg">
+    <img align="center" alt="BrunoCOliveira37-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg">
     <img align="center" alt="BrunoCOliveira37-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="BrunoCOliveira37-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="BrunoCOliveira37-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
