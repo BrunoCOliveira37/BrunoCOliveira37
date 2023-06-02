@@ -5,8 +5,8 @@
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="center" alt="BrunoCOliveira37-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c++-plain.svg">
-    <img align="center" alt="BrunoCOliveira37-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c#-original.svg">
+    <img align="center" alt="BrunoCOliveira37-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+    <img align="center" alt="BrunoCOliveira37-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-sharp/c-sharp-original.svg">
     <img align="center" alt="BrunoCOliveira37-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="BrunoCOliveira37-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
