@@ -8,7 +8,7 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="BrunoCOliveira37-CPLUSPLUS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
     <img align="center" alt="BrunoCOliveira37-CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-   <img align="center" alt="BrunoCOliveira37-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
+   <img align="center" alt="BrunoCOliveira37-HTML" height="30" width="40" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-noir.png">
     <img align="center" alt="BrunoCOliveira37-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     
 </div>
